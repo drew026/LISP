@@ -1,12 +1,5 @@
-;;; Student     : Drew Heasman
-;;; Student #   : 2521302
-;;; Assignment #: 2
-;;; Question #  : 3
-;;;   Write a program in Prolog or Lisp that given two nodes X and Y in the graph above will find the
-;;;   minimum-cost path from node X to node Y and display the found path and its cost. All data about
-;;;   the graph should be declared in the program.
-;;;
-;;;   Example: the minimum path between a and d is [a,b,c,d] with cost = 6.
+;;; Author     : Drew Heasman
+;;; Date       : 13 December 2020
 ;;;
 ;;; To run the program call the shortest path algorithm call spa with start node, goal node,
 ;;; the graph function, and heuristic functions.
